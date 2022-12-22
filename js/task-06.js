@@ -1,6 +1,6 @@
 const inputEl = document.querySelector('#validation-input');
 const dataLength = inputEl.dataset.length;
-console.log(dataLength);
+
 
 
 inputEl.addEventListener("blur", onInputBlur);
